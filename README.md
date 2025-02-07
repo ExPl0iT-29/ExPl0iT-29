@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Satpute</h1>
 <h3 align="center">Passionate about tech, specializing in game development, cybersecurity, blockchain, and Linux. Active participant in hackathons, game jams, and conferences!</h3>
 
+[![An image of @expl0it29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/expl0it29)](https://holopin.io/@expl0it29)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=expl0it-29&label=Profile%20views&color=0e75b6&style=flat" alt="expl0it-29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expl0it-29" alt="expl0it-29" /></a> </p>
