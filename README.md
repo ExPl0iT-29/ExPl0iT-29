@@ -1,39 +1,270 @@
-<h1 align="center">Hi 👋, I'm Tushar Satpute</h1>
-<h3 align="center">Passionate about tech, specializing in game development, cybersecurity, blockchain, and Linux. Active participant in hackathons, game jams, and conferences!</h3>
+<div align="center">
 
-[![An image of @expl0it29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/expl0it29)](https://holopin.io/@expl0it29)
+# 👾 Tushar Satpute | ExPl0iT-29
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=expl0it-29&label=Profile%20views&color=0e75b6&style=flat" alt="expl0it-29" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Founder+%F0%9F%9A%80;Game+Developer+(Unity+%2F+Godot)+%F0%9F%8E%AE;Cybersecurity+Enthusiast+%F0%9F%94%90;Web3+%26+Blockchain+Builder+%E2%9B%93;CLI+%26+Systems+Tooling+Nerd+%F0%9F%90%A7;Hackathon+%26+Game+Jam+Participant" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expl0it-29" alt="expl0it-29" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/tu5harsatpute" target="blank"><img src="https://img.shields.io/twitter/follow/tu5harsatpute?logo=twitter&style=for-the-badge" alt="tu5harsatpute" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=expl0it-29&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+&nbsp;
+<a href="https://twitter.com/tu5harsatpute"><img src="https://img.shields.io/twitter/follow/tu5harsatpute?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech-ECE%20%40%20WIT%20Solapur-blueviolet?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-8.78-brightgreen?style=for-the-badge" />
 
-- 🌱 I’m currently learning **Unity, C#**
+<br/><br/>
 
-- 👯 I’m looking to collaborate on **Unity, Godot , C++**
+<img src="https://img.shields.io/badge/TryHackMe-Pre%20Security-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Program%20Lead-brightgreen?style=for-the-badge&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/Founder-2%20Ventures-orange?style=for-the-badge" />
 
-- 📝 I occasionally write articles on [https://medium.com/@tusharsatpute68](https://medium.com/@tusharsatpute68)
+</div>
 
-- 💬 Ask me about **Python, Game Development, Blockchain**
+---
 
-- 📫 How to reach me **tusharsatpute2003@gmail.com**
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tu5harsatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu5harsatpute" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar-satpute-8240181b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-satpute-8240181b1" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/explooit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="explooit_" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/expl0it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="expl0it" height="30" width="40" /></a>
-<a href="https://discord.gg/expl00it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="expl00it" height="30" width="40" /></a>
-</p>
+```python
+tushar = {
+    "name":       "Tushar Jitendra Satpute",
+    "alias":      "ExPl0iT-29",
+    "location":   "Pune, Maharashtra, India",
+    "education":  "B.Tech ECE @ Walchand Institute of Technology, Solapur (CGPA: 8.78)",
+    "site":       "explooit.is-a.dev",
+    "email":      "tusharsatpute68@gmail.com",
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+    "currently":  [
+        "Co-founder & Tech Lead @ unnamed tech startup (Twine + more)",
+        "Co-founder @ EVreka — IoT/EV diagnostics for Indian repair workshops",
+        "Grinding DSA, OS, CN, DBMS, and agentic AI"
+    ],
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=expl0it-29&show_icons=true&locale=en&layout=compact" alt="expl0it-29" /></p>
+    "domains":    ["Systems/Backend", "Game Dev", "Cybersecurity", "Web3", "AI Tooling", "CLI Tools"],
+    "engines":    ["Unity", "Godot"],
+    "languages":  ["Go", "C++", "C", "Python", "C#", "Rust", "Solidity"],
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expl0it-29&show_icons=true&locale=en" alt="expl0it-29" /></p>
+    "shipped":    [
+        "wardenGo        — intrusion detection system in Go",
+        "INDUSAFE+       — dual-OS security hardening & audit framework (final year project)",
+        "shell-pp        — Unix-like shell in C++",
+        "totalcontrol    — Spotlight-style launcher in Rust",
+        "learn-vim       — terminal RPG that teaches Vim",
+        "Crowdfunding DApp — Solidity/Ethereum",
+        "Twine           — couples app (startup flagship)",
+        "EVreka Prototype — EV diagnostics hardware"
+    ],
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expl0it-29&" alt="expl0it-29" /></p>
+    "fun_fact":   "I debug at 3am, build 3 things at once, and call it research 🕵️"
+}
+```
 
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Software Developer Intern | ElasticRun | Jan – Apr 2026 |
+| Co-Founder & Fullstack Game Dev | ASK Studios IND | Feb 2025 – Jan 2026 |
+| Open Source Program Lead | HashSlap Summer of Code | Jun – Nov 2025 |
+| Tech Lead (acting CTO) | Astra Clean Technologies | Feb – Aug 2025 |
+| Product Development Intern | ApplyMyJob | Mar – May 2025 |
+| Game Development Intern | ASK Studios IND | Sep 2024 – Feb 2025 |
+
+---
+
+## 🚀 Notable Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔐 Security**
+- [INDUSAFE+](https://github.com/ExPl0iT-29) — dual-OS security hardening framework (FYP + research paper)
+- [wardenGo](https://github.com/ExPl0iT-29) — Go-based intrusion detection system
+
+**🛠️ Systems & CLI**
+- [shell-pp](https://github.com/ExPl0iT-29) — Unix-like shell in C++
+- [totalcontrol](https://github.com/ExPl0iT-29) — Rust Spotlight-style launcher
+- [learn-vim](https://github.com/ExPl0iT-29) — terminal RPG that teaches Vim
+
+</td>
+<td width="50%">
+
+**⛓️ Web3**
+- [Crowdfunding DApp](https://github.com/ExPl0iT-29) — Solidity + Ethereum
+
+**🎮 Games (ASK Studios IND)**
+- Dot and Dash
+- Absurd Infinite Runner
+- Animals of the World
+
+**🏢 Startup (cofounded)**
+- [Twine](https://github.com/ExPl0iT-29) — couples app
+- EVreka — EV diagnostics hardware for India
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Holopin Badges
+
+[![Holopin badges](https://holopin.me/expl0it29)](https://holopin.io/@expl0it29)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=expl0it-29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+**Languages**
+
+<a href="https://golang.org"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40" height="40" alt="Go"/></a>
+&nbsp;
+<a href="https://www.rust-lang.org"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40" alt="Rust"/></a>
+&nbsp;
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
+&nbsp;
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+&nbsp;
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+&nbsp;
+<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
+&nbsp;
+<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/></a>
+
+**Game Dev & 3D**
+
+<a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/></a>
+&nbsp;
+<a href="https://godotengine.org/"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" width="40" height="40" alt="Godot"/></a>
+&nbsp;
+<a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"/></a>
+&nbsp;
+<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/></a>
+
+**Web & Backend**
+
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
+&nbsp;
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
+&nbsp;
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+&nbsp;
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+
+**Web3**
+
+<a href="https://soliditylang.org/"><img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" width="40" height="40" alt="Solidity"/></a>
+&nbsp;
+<a href="https://ethereum.org/"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" width="40" height="40" alt="Ethereum"/></a>
+
+**AI / Data Science**
+
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a>
+&nbsp;
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/></a>
+&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/></a>
+&nbsp;
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a>
+&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
+
+**DevOps & Tools**
+
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
+&nbsp;
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/></a>
+&nbsp;
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
+&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
+&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+
+**Mobile**
+
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=expl0it-29&show_icons=true&theme=radical&locale=en&hide_border=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=expl0it-29&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=expl0it-29&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=expl0it-29&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/tu5harsatpute" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/tushar-satpute-8240181b1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@tusharsatpute68" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/expl0it" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://discord.gg/expl00it" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://explooit.is-a.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-explooit.is--a.dev-00f7ff?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:tusharsatpute68@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=80&section=footer" />
+</div>
