@@ -124,7 +124,7 @@ tushar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=expl0it-29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ExPl0iT-29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -214,17 +214,17 @@ tushar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expl0it-29&show_icons=true&theme=radical&locale=en&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ExPl0iT-29&show_icons=true&theme=radical&locale=en&hide_border=true&count_private=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=expl0it-29&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExPl0iT-29&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=expl0it-29&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ExPl0iT-29&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=expl0it-29&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExPl0iT-29&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
