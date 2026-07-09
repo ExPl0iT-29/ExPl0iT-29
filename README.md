@@ -2,7 +2,7 @@
 
 # 👾 Tushar Satpute | ExPl0iT-29
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Founder+%F0%9F%9A%80;Game+Developer+(Unity+%2F+Godot)+%F0%9F%8E%AE;Cybersecurity+Enthusiast+%F0%9F%94%90;Web3+%26+Blockchain+Builder+%E2%9B%93;CLI+%26+Systems+Tooling+Nerd+%F0%9F%90%A7;Hackathon+%26+Game+Jam+Participant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;Founder" alt="Typing SVG" />
 
 <br/>
 
@@ -261,6 +261,18 @@ tushar = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExPl0iT-29/ExPl0iT-29/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ExPl0iT-29/ExPl0iT-29/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ExPl0iT-29/ExPl0iT-29/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
