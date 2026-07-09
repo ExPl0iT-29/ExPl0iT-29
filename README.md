@@ -6,23 +6,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=expl0it-29&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ExPl0iT-29&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
 &nbsp;
 <a href="https://twitter.com/tu5harsatpute"><img src="https://img.shields.io/twitter/follow/tu5harsatpute?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/B.Tech-ECE%20%40%20WIT%20Solapur-blueviolet?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.78-brightgreen?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TryHackMe-Pre%20Security-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Program%20Lead-brightgreen?style=for-the-badge&logo=github" />
-&nbsp;
-<img src="https://img.shields.io/badge/Founder-2%20Ventures-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2x-Founder-orange?style=for-the-badge&logo=rocket.chat&logoColor=white" />
 
 </div>
 
@@ -124,7 +114,7 @@ tushar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ExPl0iT-29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ExPl0iT-29&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
